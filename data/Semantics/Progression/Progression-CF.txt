@@ -1,0 +1,160 @@
+He went to the store, then he bought some milk.
+He went to the store, but they were out of milk.
+She completed the assignment on time, then she relaxed.
+She completed the assignment on time, yet she felt stressed.
+I exercised every day, then I started feeling stronger.
+I exercised every day, but I didn’t lose weight.
+They studied hard for the test, then they celebrated.
+They studied hard for the test, although they still felt unprepared.
+I finished my work early, then I went home.
+I finished my work early, but I didn’t get to relax.
+He woke up early, then he went for a run.
+He woke up early, but he decided to sleep in instead.
+We planned the trip together, then we booked the flights.
+We planned the trip together, but we couldn’t find affordable flights.
+She practiced every day, then she passed the exam.
+She practiced every day, although she still struggled.
+I cleaned the house, then I went out to meet friends.
+I cleaned the house, yet I still felt unorganized.
+He helped with the project, then he took a break.
+He helped with the project, but he didn’t complete his tasks.
+They decided to go out, then it started raining.
+They decided to go out, but they changed their minds because of the rain.
+She painted the walls, then she arranged the furniture.
+She painted the walls, but she didn’t like the color.
+I made dinner, then I watched a movie.
+I made dinner, yet I didn’t enjoy it much.
+He went to bed early, then he woke up feeling refreshed.
+He went to bed early, but he still felt tired in the morning.
+We organized the event, then we sent out invitations.
+We organized the event, but many people didn’t RSVP.
+She read the book, then she wrote a review.
+She read the book, although she didn’t understand the ending.
+I finished my homework, then I watched TV.
+I finished my homework, but I didn’t feel like watching TV.
+They cooked dinner, then they served it to guests.
+They cooked dinner, yet the guests didn’t like it.
+He studied all night, then he aced the test.
+He studied all night, but he couldn’t remember the material.
+We cleaned the kitchen, then we made breakfast.
+We cleaned the kitchen, but we still ran out of time.
+She called her friend, then they met up for lunch.
+She called her friend, but they couldn’t meet up.
+I watered the plants, then I checked the soil.
+I watered the plants, but they still didn’t grow well.
+He fixed the car, then he drove to the store.
+He fixed the car, yet it broke down again.
+I painted the picture, then I framed it.
+I painted the picture, although I didn’t like the final result.
+She studied hard, then she took a break.
+She studied hard, yet she felt unprepared for the test.
+They worked together, then they finished the project.
+They worked together, although they disagreed on some points.
+I went for a walk, then I grabbed a coffee.
+I went for a walk, but it started to rain halfway through.
+He read the article, then he shared it with his friends.
+He read the article, yet he didn’t find it interesting.
+We bought new furniture, then we rearranged the living room.
+We bought new furniture, but it didn’t fit in the room.
+She learned the dance, then she performed in the show.
+She learned the dance, yet she felt nervous during the performance.
+I organized the files, then I backed them up.
+I organized the files, but I forgot to back them up.
+He fixed the leak, then he painted the wall.
+He fixed the leak, but the wall still showed signs of damage.
+They cleaned up the yard, then they planted flowers.
+They cleaned up the yard, but they didn’t plant anything.
+She arranged the flowers, then she placed them on the table.
+She arranged the flowers, but they didn’t last long.
+I wrote the email, then I sent it to my boss.
+I wrote the email, yet I forgot to attach the document.
+He took a deep breath, then he spoke confidently.
+He took a deep breath, but his voice trembled.
+We finished the puzzle, then we admired our work.
+We finished the puzzle, but some pieces were missing.
+She finished the book, then she started another one.
+She finished the book, but she didn’t enjoy it.
+I cleaned my desk, then I got to work.
+I cleaned my desk, but I couldn’t focus on my work.
+He took the call, then he returned to the meeting.
+He took the call, but he missed the rest of the meeting.
+他决定去跑步，然后他准备好了运动装备。
+他决定去跑步，但是天气突然变坏。
+她把书放回书架，然后开始做作业。
+她把书放回书架，可是她忘记带回作业。
+我准备好了晚餐，然后我开始布置餐桌。
+我准备好了晚餐，却没人准时到来。
+他把礼物包装好，然后送到了她的家里。
+他把礼物包装好，却发现忘记写卡片。
+我先去了银行，然后去超市买东西。
+我先去了银行，可是排队的人太多。
+她整理好了行李，然后出发去机场。
+她整理好了行李，但是忘记带护照。
+我修理了电脑，然后开始使用它。
+我修理了电脑，却发现还不完全好用。
+我整理了房间，然后坐下来休息。
+我整理了房间，但没有时间好好休息。
+他们讨论了问题，然后达成了共识。
+他们讨论了问题，却未能达成一致意见。
+他修好了车，然后开车去上班。
+他修好了车，可是车还是有些问题。
+我学会了游泳，然后我尝试了潜水。
+我学会了游泳，却没有勇气尝试潜水。
+她读完了小说，然后开始写书评。
+她读完了小说，却不太喜欢故事情节。
+我提前完成了任务，然后开始放松。
+我提前完成了任务，可是无法放松。
+他们搬到了新家，然后开始布置房间。
+他们搬到了新家，可是房间还没有布置好。
+我做完了运动，然后去洗澡。
+我做完了运动，却觉得自己很累。
+他解决了问题，然后开始做报告。
+他解决了问题，然而报告还没有完成。
+我去商店买了些东西，然后我去拜访朋友。
+我去商店买了些东西，可是忘了买最重要的东西。
+她洗完了衣服，然后开始烘干。
+她洗完了衣服，却发现洗衣机坏了。
+我整理了书架，然后放上了新书。
+我整理了书架，但有些书还没放回去。
+他写完了论文，然后去休息。
+他写完了论文，但还是很紧张。
+我和朋友去看电影，然后一起吃了晚餐。
+我和朋友去看电影，但她迟到了。
+他完成了计划，然后开始执行。
+他完成了计划，但遇到了很多困难。
+我准备了演讲稿，然后去参加会议。
+我准备了演讲稿，可是忘记带上讲义。
+她做了笔记，然后开始复习。
+她做了笔记，却没时间复习。
+我订好了餐厅，然后去接朋友。
+我订好了餐厅，但他们临时改变了计划。
+他打扫了办公室，然后开始工作。
+他打扫了办公室，却没有时间休息。
+我去买了水果，然后做了果汁。
+我去买了水果，却忘记买零食。
+她做了晚餐，然后一起享用。
+她做了晚餐，然而大家都没来吃。
+我安装了新软件，然后开始使用它。
+我安装了新软件，但它并没有如我所愿工作。
+他们开会讨论了预算，然后确定了计划。
+他们开会讨论了预算，可是没有达成一致。
+他把书借给了我，然后我读了它。
+他把书借给了我，但我没来得及读。
+我打扫了院子，然后种了些花。
+我打扫了院子，但没时间种花。
+我处理了邮件，然后准备开会。
+我处理了邮件，然而开会的时间却提前了。
+她回家后休息了一会儿，然后开始做晚餐。
+她回家后休息了一会儿，但还是很累。
+他锻炼了身体，然后去了超市。
+他锻炼了身体，然而还是感觉有些疲劳。
+我完成了报告，然后发送给经理。
+我完成了报告，却发现有些部分没有写完。
+我去修了车，然后继续开车上班。
+我去修了车，但车还是有些问题。
+她完成了任务，然后表扬了团队。
+她完成了任务，但团队成员仍然不满意。
+我去了银行取钱，然后去购物。
+我去了银行取钱，然而机器出了故障。
+他完成了挑战，然后接受了奖励。
+他完成了挑战，可是没有得到奖励。

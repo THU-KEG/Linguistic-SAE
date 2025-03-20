@@ -1,0 +1,160 @@
+Could you please pass me the salt?
+Pass me the salt.
+Would you mind opening the window a bit?
+Open the window a bit.
+Could you kindly hold the door for me?
+Hold the door for me.
+May I ask you to wait here for a moment?
+Wait here for a moment.
+Could you please help me carry these boxes?
+Help me carry these boxes.
+Could you please pass me the remote control?
+Pass me the remote control.
+Would you mind closing the door behind you?
+Close the door behind you.
+Could you kindly lend me your pen for a moment?
+Lend me your pen for a moment.
+May I ask you to help me with this task?
+Help me with this task.
+Could you please bring me a glass of water?
+Bring me a glass of water.
+Would you mind giving me a hand with these bags?
+Give me a hand with these bags.
+Could you kindly show me the way to the station?
+Show me the way to the station.
+May I ask you to wait a little longer?
+Wait a little longer.
+Could you please close the curtains?
+Close the curtains.
+Would you mind passing me the salt, please?
+Pass me the salt.
+Could you kindly help me move this chair?
+Help me move this chair.
+May I ask you to give me a moment to think?
+Give me a moment to think.
+Could you please keep the noise down?
+Keep the noise down.
+Would you mind taking this package for me?
+Take this package for me.
+Could you kindly provide me with a tissue?
+Provide me with a tissue.
+Could you please turn off the lights?
+Turn off the lights.
+Would you mind helping me with this project?
+Help me with this project.
+Could you kindly pass me the pepper shaker?
+Pass me the pepper shaker.
+May I ask you to keep an eye on my bag for a moment?
+Keep an eye on my bag for a moment.
+Could you please send me the document?
+Send me the document.
+Would you mind giving me directions to the train station?
+Give me directions to the train station.
+Could you kindly explain this concept to me?
+Explain this concept to me.
+May I ask you to speak a little louder?
+Speak a little louder.
+Could you please adjust the volume?
+Adjust the volume.
+Would you mind waiting here for a moment?
+Wait here for a moment.
+Could you kindly help me hang this picture?
+Help me hang this picture.
+May I ask you to watch my belongings while I step out?
+Watch my belongings while I step out.
+Could you please bring me a cup of coffee?
+Bring me a cup of coffee.
+Would you mind helping me carry this bag upstairs?
+Carry this bag upstairs.
+Could you kindly take care of my plants while I’m away?
+Take care of my plants while I’m away.
+May I ask you to check this report for me?
+Check this report for me.
+Could you please send me a copy of the schedule?
+Send me a copy of the schedule.
+Would you mind saving me a seat?
+Save me a seat.
+Could you kindly point me to the nearest restroom?
+Point me to the nearest restroom.
+May I ask you to sign this form for me?
+Sign this form for me.
+麻烦您帮我拿一下那本书，好吗？
+帮我拿一下那本书，好吗？
+请问您可以先到休息室等候吗？
+可以先到休息室等候吗？
+不知可否请您协助我完成这份资料？
+协助我完成这份资料。
+劳驾，您能把窗户打开一点吗？
+能把窗户打开一点吗？
+能请您给我一杯热茶吗？
+能给我一杯热茶吗？
+麻烦您把这个文件交给经理，可以吗？
+把这个文件交给经理，可以吗？
+请问您能帮我搬一下这张桌子吗？
+帮我搬一下这张桌子吗？
+劳驾，能否请您指导我一下这个问题？
+指导我一下这个问题。
+麻烦您稍等片刻，我马上回来。
+稍等片刻，我马上回来。
+能请您将这些东西整理一下吗？
+将这些东西整理一下吗？
+请问您可以带我去会议室吗？
+可以带我去会议室吗？
+不好意思，能否请您再重复一遍？
+再重复一遍。
+劳驾，您能把灯关一下吗？
+把灯关一下吗？
+麻烦您确认一下这份文件的内容。
+确认一下这份文件的内容。
+不知可否请您告诉我具体的时间？
+告诉我具体的时间。
+请问您能帮我复印这份资料吗？
+帮我复印这份资料吗？
+麻烦您在这里签个字，好吗？
+在这里签个字，好吗？
+劳驾，请您稍微挪一下椅子。
+挪一下椅子。
+能请您帮忙整理一下桌面吗？
+帮忙整理一下桌面吗？
+不知可否请您稍作等待，系统正在更新。
+稍作等待，系统正在更新。
+麻烦您将钥匙交给前台，好吗？
+将钥匙交给前台，好吗？
+请问您能不能帮我把包拿过来？
+帮我把包拿过来。
+不好意思，能否请您稍微安静一点？
+稍微安静一点。
+能请您帮我找一下那本书吗？
+帮我找一下那本书。
+劳驾，您能告诉我这个怎么操作吗？
+告诉我这个怎么操作。
+麻烦您帮我预订一下车票。
+帮我预订一下车票。
+请问您能再讲解一下这个概念吗？
+再讲解一下这个概念。
+不知可否请您帮忙收拾一下桌子？
+帮忙收拾一下桌子。
+麻烦您调整一下会议时间，好吗？
+调整一下会议时间，好吗？
+请问您能帮我确认一下地址吗？
+帮我确认一下地址。
+劳驾，能否请您再看一遍文件？
+再看一遍文件。
+能请您帮忙打印这几张表格吗？
+帮忙打印这几张表格。
+麻烦您看一下这个清单，好吗？
+看一下这个清单，好吗？
+请问您可以再补充一些信息吗？
+再补充一些信息。
+劳驾，您能借我一下这支笔吗？
+借我一下这支笔。
+麻烦您帮我关一下窗帘。
+帮我关一下窗帘。
+请问您可以帮我确认一下会议记录吗？
+帮我确认一下会议记录。
+不知可否请您将这份文件发给对方？
+将这份文件发给对方。
+劳驾，能否请您帮我搬一下箱子？
+帮我搬一下箱子。
+能请您把这个信封交给前台吗？
+把这个信封交给前台。

@@ -1,0 +1,160 @@
+It rained heavily, so the match was postponed.
+It rained heavily, but the match went on as scheduled.
+She studied diligently, therefore she passed the exam.
+She studied diligently, but she found the exam unexpectedly difficult.
+The road was slippery, so the car skidded off the track.
+The road was slippery, but the car maintained control despite the conditions.
+I forgot my umbrella, so I got wet.
+I forgot my umbrella, but I managed to stay dry by running.
+He missed the bus, so he was late for work.
+He missed the bus, but he caught an earlier train and arrived on time.
+The team worked hard, therefore they won the championship.
+The team worked hard, but they lost the final match.
+The engine failed, so the plane had to make an emergency landing.
+The engine failed, but the pilot managed a safe landing despite the malfunction.
+The company reported profits, so the stock prices increased.
+The company reported profits, but the stock prices fell due to market uncertainty.
+The temperature dropped, so the lake began to freeze.
+The temperature dropped, but the lake remained liquid thanks to a thermal current.
+She practiced every day, therefore her performance improved.
+She practiced every day, but her performance plateaued over time.
+The computer crashed, so I lost all my work.
+The computer crashed, but I had backed up my files beforehand.
+The evidence was clear, so the jury reached a unanimous verdict.
+The evidence was clear, but the jury remained divided on the punishment.
+The recipe was followed precisely, so the dish turned out delicious.
+The recipe was followed precisely, but the dish lacked the expected flavor.
+The storm was severe, so power outages occurred across the city.
+The storm was severe, but the city's power grid held up remarkably well.
+He didn’t set an alarm, so he overslept.
+He didn’t set an alarm, but he woke up early out of habit.
+The project was completed ahead of schedule, therefore the client was pleased.
+The project was completed ahead of schedule, but the client was dissatisfied with the quality.
+The car was in poor condition, so it broke down on the highway.
+The car was in poor condition, but it surprisingly managed to reach the service station.
+She apologized sincerely, so her friend forgave her.
+She apologized sincerely, but her friend remained upset despite her apology.
+The demand increased, so the company expanded its production.
+The demand increased, but the company decided to cut prices instead of expanding production.
+The instructions were unclear, so many users became confused.
+The instructions were unclear, but some users managed to figure things out on their own.
+The market research was thorough, so the new product succeeded.
+The market research was thorough, but the new product failed to capture consumer interest.
+The experiment failed, so the scientist revised his hypothesis.
+The experiment failed, but the scientist stuck to his original hypothesis.
+The weather improved, therefore the picnic was a success.
+The weather improved, but the picnic was ruined by an unexpected accident.
+The vehicle ran out of fuel, so it stopped in the middle of the road.
+The vehicle ran out of fuel, but it was quickly refueled and continued on its journey.
+The festival was canceled due to rain, so everyone stayed home.
+The festival was canceled due to rain, but some people still gathered outdoors.
+He saved diligently, so he could buy his dream house.
+He saved diligently, but he ended up spending the money on a vacation instead.
+The water was contaminated, so the residents were advised to boil it.
+The water was contaminated, but the residents ignored the warnings and drank it anyway.
+The teacher explained the concept clearly, so the students understood it.
+The teacher explained the concept clearly, but the students still struggled with the material.
+The store had a sale, so many customers flocked to it.
+The store had a sale, but many customers found the prices still too high.
+The plan was well-prepared, therefore the event was a hit.
+The plan was well-prepared, but the event failed to impress the audience.
+The flight was delayed, so we had to wait at the airport.
+The flight was delayed, but we used the extra time to explore the terminal.
+The battery died, so the phone turned off unexpectedly.
+The battery died, but the phone was quickly recharged and turned on again.
+The teacher was absent, so the class was canceled.
+The teacher was absent, but the class went on with a substitute instructor.
+The policy was ineffective, so changes were implemented.
+The policy was ineffective, but no significant changes were made in time.
+The project received funding, therefore development began immediately.
+The project received funding, but development was delayed due to administrative issues.
+The road was closed, so drivers took an alternate route.
+The road was closed, but drivers ended up stuck in traffic on the detour.
+The novel was popular, so it was adapted into a film.
+The novel was popular, but the film adaptation was critically panned.
+The candidate’s campaign was strong, therefore he won the election.
+The candidate’s campaign was strong, but he lost the election in a surprising upset.
+The evidence was compelling, so the judge dismissed the case.
+The evidence was compelling, but the judge decided to reopen the case.
+The exercise was regular, so she maintained a healthy weight.
+The exercise was regular, but she still struggled with her overall fitness.
+昨天下雨了，所以比赛被推迟了。
+昨天下雨了，但是比赛仍然如期进行。
+他努力学习，所以成绩很好。
+他努力学习，但是考试仍然充满挑战。
+天气很冷，所以我们待在家里。
+天气很冷，但是我们还是决定出门散步。
+道路湿滑，所以车子打滑了。
+道路湿滑，但是车子仍然平稳行驶。
+我忘记带伞，所以被淋湿了。
+我忘记带伞，但是我赶紧找地方避雨。
+他错过了公交车，所以上班迟到了。
+他错过了公交车，但是他很快赶上了另一班车。
+团队辛勤工作，所以他们赢得了冠军。
+团队辛勤工作，但是他们在决赛中输掉了比赛。
+引擎故障了，所以飞机紧急降落了。
+引擎故障了，但是飞机最终安全着陆。
+公司盈利，所以股票价格上涨了。
+公司盈利，但是市场情绪低迷，股价没有上升。
+温度下降，所以湖面开始结冰。
+温度下降，但是湖面依然没有完全结冰。
+电脑崩溃了，所以我丢失了所有工作。
+电脑崩溃了，但是我事先备份了数据。
+证据确凿，所以陪审团一致作出裁决。
+证据确凿，但是陪审团对判决结果意见不一。
+严格按照食谱做饭，所以菜肴非常美味。
+严格按照食谱做饭，但是菜肴的味道仍然平淡。
+暴风雨很猛烈，所以全城停电了。
+暴风雨很猛烈，但是部分地区的电力供应未受影响。
+他没有设闹钟，所以睡过头了。
+他没有设闹钟，但是他依然准时起床了。
+项目提前完成，所以客户非常满意。
+项目提前完成，但是客户对结果并不完全满意。
+车况不佳，所以高速上抛锚了。
+车况不佳，但是车辆奇迹般地跑到了修理厂。
+她真诚道歉，所以朋友原谅了她。
+她真诚道歉，但是朋友依旧心存芥蒂。
+需求增加，所以公司扩大了生产。
+需求增加，但是公司选择维持现有生产规模。
+指示不清，所以许多用户感到困惑。
+指示不清，但是部分用户还是明白了操作方法。
+市场调研充分，所以新产品大获成功。
+市场调研充分，但是新产品未能赢得消费者青睐。
+实验失败了，所以科学家修改了假设。
+实验失败了，但是科学家坚持了原有的假设。
+天气好转，所以野餐十分成功。
+天气好转，但是野餐因为意外情况而受阻。
+车辆燃料耗尽，所以在路中央熄火了。
+车辆燃料耗尽，但是很快就被拖上了路边。
+节日因雨取消，所以大家都待在家里。
+节日因雨取消，但是部分人依然冒雨外出。
+他勤俭储蓄，所以买到了梦想中的房子。
+他勤俭储蓄，但是最终将钱花在了其他地方。
+水源被污染，所以居民被建议煮沸饮用。
+水源被污染，但是居民依旧选择直接饮用。
+老师讲解清楚，所以学生都理解了。
+老师讲解清楚，但是学生对内容仍感困惑。
+商店打折，所以顾客蜂拥而至。
+商店打折，但是顾客却发现商品品质一般。
+计划准备充分，所以活动大获成功。
+计划准备充分，但是活动效果未达预期。
+航班延误了，所以我们不得不在机场等待。
+航班延误了，但是我们利用时间参观了机场设施。
+电池没电了，所以手机突然关机。
+电池没电了，但是手机很快恢复了供电。
+老师不在，所以课被取消了。
+老师不在，但是学生们自发进行了讨论。
+政策无效，所以进行了调整。
+政策无效，但是调整后的效果仍然不理想。
+项目获得资金，所以立刻开始开发。
+项目获得资金，但是开发进度却异常缓慢。
+道路封闭，所以司机选择了其他路线。
+道路封闭，但是司机最终还是回到了原路线。
+小说很受欢迎，所以被改编成电影。
+小说很受欢迎，但是电影票房平平。
+候选人竞选出色，所以他赢得了选举。
+候选人竞选出色，但是选举结果出乎意料。
+证据有力，所以法官驳回了案件。
+证据有力，但是法官最终决定重新审理案件。
+他坚持锻炼，所以保持了健康的体重。
+他坚持锻炼，但是健康状况仍然需要关注。
